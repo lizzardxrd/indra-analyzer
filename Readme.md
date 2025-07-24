@@ -11,7 +11,7 @@ Process Analyzer'ı yerel sisteminizde çalıştırmak için aşağıdaki adıml
 1.  **Depoyu Klonlayın:**
 
     ```bash
-    git clone https://github.com/your-username/process-analyzer.git
+    git clone https://github.com/lizzardxrd/indra-analyzer.git
     cd process-analyzer
     ```
 
