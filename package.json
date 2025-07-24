@@ -1,0 +1,26 @@
+{
+  "name": "indra-analyzer",
+  "version": "1.0.0",
+  "description": "A terminal-based process analyzer for Windows and Linux.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "process",
+    "analyzer",
+    "terminal",
+    "linux",
+    "windows"
+  ],
+  "author": "Jungle Network",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "figlet": "^1.7.0",
+    "i18n": "^0.15.1",
+    "inquirer": "^8.2.6",
+    "pidusage": "^3.0.0",
+    "gradient-string": "^2.0.0"
+  }
+}
